@@ -1,2 +1,2 @@
 # Java
-Training Java repo
+Training Java repo - yes
